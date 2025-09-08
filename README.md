@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Tirth Pandya👋
 
-TIRTH PANDYA
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Data+Analyst;UI%2FUX+Designer)](https://git.io/typing-svg)
 
